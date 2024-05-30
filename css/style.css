@@ -13,6 +13,7 @@ body {
   background-color: black;
 }
 .greetings {
+  color: black;
   text-align: center;
   font-size: 6rem;
   font-weight: 900;
